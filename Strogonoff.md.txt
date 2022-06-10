@@ -1,0 +1,18 @@
+# Strogonoff de Frango
+
+hashtag(1 em diante) + espaço + frase
+
+**negrito** 
+
+dois asteriscos antes dps da palavra
+
+:chicken: 
+
+dois pontos + nome emoji
+
+- espaço e - e espaço
+
+  _itálico_ 
+
+  underlaine antes e dps da palavra
+
